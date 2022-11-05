@@ -1,0 +1,115 @@
+
+.toUpperCase {
+    text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+.drop-shadow-3{
+    box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34) !important;
+-webkit-box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34);
+-moz-box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34);
+}
+
+.drop-shadow-4{
+    box-shadow: -1px 10px 23px -3px rgba(0, 0, 0, 0.174) !important;
+-webkit-box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34);
+-moz-box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34);
+}
+
+.drop-shadow-5{
+    box-shadow: -1px 10px 23px -3px rgba(0, 0, 0, 0.053) !important;
+-webkit-box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34);
+-moz-box-shadow: -1px 10px 23px -3px rgba(0,0,0,0.34);
+}
+
+.floatRight {
+    float:right;
+}
+
+.center-row {
+    justify-content: center !important;
+}
+
+.round-left-border {
+    border-top-left-radius: 20px !important;
+}
+.round-left-border-2 {
+    border-bottom-left-radius: 20px !important;
+}
+
+.text-white {
+    color:white;
+}
+.yellow-background {
+    background: rgb(251,28,100);
+    background: linear-gradient(94deg, rgba(251,28,100,0.8827906162464986) 0%, rgba(255,178,111,1) 100%);
+}
+.red-background {
+    background: rgb(251,95,28);
+background: linear-gradient(94deg, rgba(251,95,28,1) 0%, rgba(255,178,111,1) 100%);
+}
+.orange-background {
+    background: rgb(251,180,28);
+background: linear-gradient(94deg, rgba(251,180,28,1) 0%, rgba(255,178,111,1) 100%);
+}
+
+.main-body {
+    padding: 15px;
+    margin-top:2em;
+}
+.card {
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1rem;
+}
+
+.gutters-sm {
+    margin-right: -8px;
+    margin-left: -8px;
+}
+
+.gutters-sm>.col, .gutters-sm>[class*=col-] {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+.mb-3, .my-3 {
+    margin-bottom: 1rem!important;
+}
+
+.bg-gray-300 {
+    background-color: #e2e8f0;
+}
+.h-100 {
+    height: 100%!important;
+}
+.shadow-none {
+    box-shadow: none!important;
+}
+
+
+
+.hover_card:hover {
+
+    box-shadow: 0 7px 15px 0 rgba(236, 202, 10, 0.857), 0 1px 2px 0 rgba(226, 161, 9, 0.8)!important;
+    cursor: pointer;
+
+}
