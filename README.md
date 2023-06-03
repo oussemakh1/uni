@@ -30,11 +30,11 @@ Installation
 
 To set up the Club Management System locally, follow these steps:
 
-    Clone the repository:
+    Clone the repository: https://github.com/oussemakh1/uni.git
 
 shell
 
-git clone https://github.com/your-username/club-management-system.git
+git clone https://github.com/oussemakh1/uni.git
 
     Configure the database connection:
         Open the config.php file.
@@ -61,7 +61,4 @@ Contributing
 Contributions to the Club Management System are welcome! If you want to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file. You can contribute by submitting bug reports, suggesting new features, or implementing improvements and fixes.
 License
 
-The Club Management System is open-source software released under the MIT License. Feel free to use, modify, and distribute the project as per the terms of the license.
-Acknowledgments
-
-The Club Management System was developed by [Your Name]. We would like to express our gratitude to [acknowledgments if any] for their valuable contributions and support during the development of this project.
+The  System is open-source software released under the MIT License. Feel free to use, modify, and distribute the project as per the terms of the license.
