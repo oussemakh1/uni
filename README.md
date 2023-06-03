@@ -1,5 +1,6 @@
 # uni
-Uni is a management system designed for clubs, associations, organizations, and university administrations to enhance their communication and assist them in digitally managing their data.Features
+Uni is a management system designed for clubs, associations, organizations, and university administrations to enhance their communication and assist them in digitally managing their data.
+Features
 User Management
 
     User Roles: Users can be assigned roles such as 'President', 'Vice President', 'Team Leader', and more, granting different levels of access and responsibilities.
